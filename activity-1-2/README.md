@@ -13,20 +13,21 @@ El estudio se basa en datos del World Happiness Report y variables económicas (
 
 ## Archivos
 
-- 📘 [Notebook (Jupyter)](A1.2 Regresión lineal JosueB 635654 (1).ipynb)  
+- 📘 [Notebook (Jupyter)](A1.2%20Regresión%20lineal%20JosueB%20635654%20(1).ipynb)  
   Notebook con el desarrollo completo del análisis, explicación teórica, gráficas y conclusiones.
 
-- 🌐 [Reporte Web (HTML)](A1.2 Regresión lineal JosueB 635654.html)  
+- 🌐 [Reporte Web (HTML)](A1.2%20Regresión%20lineal%20JosueB%20635654.html)  
   Visualización del análisis como página web mediante GitHub Pages.
 
-- 📊 [Dataset: Felicidad y GDP](A1.2 Felicidad y GDP.csv)  
+- 📊 [Dataset: Felicidad y GDP](A1.2%20Felicidad%20y%20GDP.csv)  
   Conjunto de datos original con indicadores de felicidad y PIB.
 
 - 📊 [Dataset extendido: Felicidad, GDP y PROMIS](A1.2_Felicidad_GDP_PROMIS.csv)  
   Conjunto de datos con variables proxy de bienestar (PROMIS).
 
-- 📄 [Reporte en PDF](vertopal.com_A1.2 Regresión lineal JosueB 635654 (1).pdf)  
+- 📄 [Reporte en PDF](vertopal.com_A1.2%20Regresión%20lineal%20JosueB%20635654%20(1).pdf)  
   Versión en PDF del reporte final.
+
 
 
 
