@@ -13,7 +13,7 @@ El estudio se basa en datos del World Happiness Report y variables económicas (
 
 ## Archivos
 
-- 📘 [Notebook (Jupyter)](A1.2 Regresión lineal JosueB 635654.ipynb)  
+- 📘 [Notebook (Jupyter)](A1.2 Regresión lineal JosueB 635654 (1).ipynb)  
   Notebook con el desarrollo completo del análisis, explicación teórica, gráficas y conclusiones.
 
 - 🌐 [Reporte Web (HTML)](A1.2 Regresión lineal JosueB 635654.html)  
@@ -27,6 +27,7 @@ El estudio se basa en datos del World Happiness Report y variables económicas (
 
 - 📄 [Reporte en PDF](vertopal.com_A1.2 Regresión lineal JosueB 635654 (1).pdf)  
   Versión en PDF del reporte final.
+
 
 
 ## Notas metodológicas
