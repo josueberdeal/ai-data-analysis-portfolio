@@ -1,42 +1,37 @@
-A1.3 Solución de problemas y selección de características – SC3314
+# A1.3 Solución de problemas y selección de características – SC3314
 
-Alumno: Josué Berdeal
-Matrícula: 000635654
-Materia: Inteligencia Artificial (SC3314)
-Profesor: Dr. Antonio Martínez Torteya
-Universidad de Monterrey
+**Alumno:** Josué Berdeal  
+**Matrícula:** 000635654  
+**Materia:** Inteligencia Artificial (SC3314)  
+**Profesor:** Dr. Antonio Martínez Torteya  
+**Universidad:** Universidad de Monterrey  
 
-Descripción
+## Descripción
 
-Este repositorio contiene el desarrollo de un modelo de regresión lineal múltiple para predecir la calificación final de estudiantes a partir de variables demográficas y académicas.
+Este repositorio contiene el desarrollo de un **modelo de regresión lineal múltiple** para predecir la calificación final de estudiantes a partir de variables demográficas y académicas.
 
-El análisis aborda problemas comunes en datos reales como colinealidad entre variables, valores atípicos y selección de características, con el objetivo de construir un modelo con buen desempeño predictivo y fácil interpretación.
+El análisis aborda problemas comunes en datos reales como **colinealidad entre variables**, **valores atípicos** y **selección de características**, con el objetivo de construir un modelo con buen desempeño predictivo y fácil interpretación.
 
-Archivos
+## Archivos
 
-📘 Notebook (Jupyter)
-Desarrollo completo del análisis, incluyendo limpieza de datos, análisis exploratorio, selección de características, entrenamiento de modelos y conclusiones.
-A1.3 Josue Berdeal 635654 (6).ipynb
+- 📘 **[Notebook (Jupyter)](A1.3%20Josue%20Berdeal%20635654%20(6).ipynb)**  
+  Desarrollo completo del análisis, incluyendo limpieza de datos, análisis exploratorio, selección de características, entrenamiento de modelos y conclusiones.
 
-🌐 Reporte Web (HTML – EDA Automatizado)
-Reporte generado con ydata_profiling para el análisis exploratorio automatizado del dataset.
-calificaciones_profiling.html
+- 🌐 **[Reporte Web (HTML – EDA Automatizado)](calificaciones_profiling.html)**  
+  Reporte generado con *ydata_profiling* para el análisis exploratorio automatizado del dataset.
 
-📊 Dataset: Calificaciones
-Conjunto de datos original con información académica y demográfica de los estudiantes.
-A1.3 Calificaciones.csv
+- 📊 **[Dataset: Calificaciones](A1.3%20Calificaciones.csv)**  
+  Conjunto de datos original con información académica y demográfica de los estudiantes.
 
-📄 Reporte en PDF
-Versión en PDF del reporte final.
-vertopal.com_A1.3 Josue Berdeal 635654.pdf
+- 📄 **[Reporte en PDF](vertopal.com_A1.3%20Josue%20Berdeal%20635654.pdf)**  
+  Versión en PDF del reporte final.
 
-Notas metodológicas
+## Notas metodológicas
 
-Debido a la alta correlación observada entre las calificaciones parciales G1 y G2, no se incluyeron ambas variables simultáneamente en el modelo final. En su lugar, se entrenaron dos modelos independientes para comparar su desempeño y seleccionar la variable con mayor poder predictivo.
+Debido a la **alta correlación** observada entre las calificaciones parciales **G1** y **G2**, no se incluyeron ambas variables simultáneamente en el modelo final. En su lugar, se entrenaron **dos modelos independientes** para comparar su desempeño y seleccionar la variable con mayor poder predictivo.
 
-Además, se realizó tanto un análisis exploratorio manual como un análisis exploratorio automatizado, con el fin de validar la calidad de los datos, detectar duplicados, verificar valores atípicos y respaldar las decisiones de selección de características.
+Además, se realizó tanto un **análisis exploratorio manual** como un **análisis exploratorio automatizado**, con el fin de validar la calidad de los datos, detectar duplicados, verificar valores atípicos y respaldar las decisiones de selección de características.
 
-Integridad académica
+## Integridad académica
 
 Doy mi palabra que este trabajo fue realizado con integridad académica.
-
