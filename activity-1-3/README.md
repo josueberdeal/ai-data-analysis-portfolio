@@ -14,16 +14,16 @@ El análisis aborda problemas comunes en datos reales como **colinealidad entre 
 
 ## Archivos
 
-- 📘 **[Notebook (Jupyter)](A1.3%20Josue%20Berdeal%20635654%20(6).ipynb)**  
+- 📘 **[Notebook (Jupyter)](A1.3_635654.ipynb)**  
   Desarrollo completo del análisis, incluyendo limpieza de datos, análisis exploratorio, selección de características, entrenamiento de modelos y conclusiones.
 
-- 🌐 **[Reporte Web (HTML – EDA Automatizado)](calificaciones_profiling.html)**  
+- 🌐 **[Reporte Web (HTML – EDA Automatizado)](A1.3_635654.html)**  
   Reporte generado con *ydata_profiling* para el análisis exploratorio automatizado del dataset.
 
 - 📊 **[Dataset: Calificaciones](A1.3%20Calificaciones.csv)**  
   Conjunto de datos original con información académica y demográfica de los estudiantes.
 
-- 📄 **[Reporte en PDF](vertopal.com_A1.3%20Josue%20Berdeal%20635654%20(6).pdf)**  
+- 📄 **[Reporte en PDF](A1.3_635654.pdf)**  
   Versión en PDF del reporte final.
 
 ## Notas metodológicas
