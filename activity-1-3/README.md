@@ -23,7 +23,7 @@ El análisis aborda problemas comunes en datos reales como **colinealidad entre 
 - 📊 **[Dataset: Calificaciones](A1.3%20Calificaciones.csv)**  
   Conjunto de datos original con información académica y demográfica de los estudiantes.
 
-- 📄 **[Reporte en PDF](vertopal.com_A1.3%20Josue%20Berdeal%20635654 (6).pdf)**  
+- 📄 **[Reporte en PDF](vertopal.com_A1.3%20Josue%20Berdeal%20635654%(6).pdf)**  
   Versión en PDF del reporte final.
 
 ## Notas metodológicas
