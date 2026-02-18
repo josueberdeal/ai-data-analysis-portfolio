@@ -25,7 +25,7 @@ El estudio se basa en datos del World Happiness Report y variables económicas (
 - 📊 [Dataset extendido: Felicidad, GDP y PROMIS](A1.2_Felicidad_GDP_PROMIS.csv)  
   Conjunto de datos con variables proxy de bienestar (PROMIS).
 
-- 📄 [Reporte en PDF](vertopal.com_A1.2%20Regresión%20lineal%20JosueB%20635654%20(1).pdf)  
+- 📄 [Reporte en PDF](A1.2_635654.pdf)  
   Versión en PDF del reporte final.
 
 
