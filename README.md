@@ -6,7 +6,7 @@ Proyectos de análisis de datos e inteligencia artificial que demuestran habilid
 
 ## Tareas 1er Parcial IA
 
-###  A1.1 A1.1 Aprendizaje estadístico-automático
+###  A1.1 Aprendizaje estadístico-automático
 Análisis exploratorio de datos y regresión lineal para estudiar la relación entre el Producto Interno Bruto (PIB) y los indicadores de felicidad.
 
 ---
