@@ -19,7 +19,7 @@ El estudio se basa en datos del World Happiness Report y variables económicas (
 - 🌐 [Reporte Web (HTML)](A1.2%20Regresión%20lineal%20JosueB%20635654.html)  
   Visualización del análisis como página web mediante GitHub Pages.
 
-- 📊 [Dataset: Felicidad y GDP](A1.2%20Felicidad%20y%20GDP.csv)  
+- 📊 [Dataset: Felicidad y GDP](A1.2%20635654.csv)  
   Conjunto de datos original con indicadores de felicidad y PIB.
 
 - 📊 [Dataset extendido: Felicidad, GDP y PROMIS](A1.2_Felicidad_GDP_PROMIS.csv)  
